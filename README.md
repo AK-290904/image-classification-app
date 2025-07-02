@@ -18,6 +18,7 @@ An interactive AI-powered learning tool for kids that identifies everyday object
   - pyttsx3 (text-to-speech)
 
  **Project Structure**
+ 
 ├── app.py              # Main Streamlit app to run the UI
 ├── expcolor.py         # Color extraction logic using ColorThief
 ├── finalOutcome.ipynb  # Jupyter Notebook for combining model output and display
